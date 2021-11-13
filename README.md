@@ -1,4 +1,4 @@
-# swat-peds
+# N.O.o.S.E. peds pack
 
 ******************************************
 Disclaimer
